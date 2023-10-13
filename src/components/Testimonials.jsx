@@ -1,4 +1,5 @@
 import React from "react";
+import Img1 from "../img/user1-free-img.jpg"
 class Testimonials extends React.Component {
     render() {
         return(
@@ -8,7 +9,7 @@ class Testimonials extends React.Component {
                 <p className="text-[14px] pt-8 pb-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             <div className="flex gap-10">
                 <div className="w-[230px] h-[288px]">
-                <img src="/img/user1-free-img.jpg" alt="" className="w-[100%] rounded-tr-[20px] rounded-tl-[20px] rounded-br-[20px]" />
+                <img src={Img1} alt="" className="w-[100%] rounded-tr-[20px] rounded-tl-[20px] rounded-br-[20px]" />
                 </div>
                 <div className="w-[266px] pt-14">
                     <p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt.</p>
