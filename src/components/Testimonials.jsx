@@ -36,7 +36,7 @@ class Testimonials extends React.Component {
 
             <div className="flex mt-16 gap-10">
                 <div className="w-[230px] h-[288px]">
-                <img src="/img/user3-free-img.jpg" alt="" className="w-[100%] rounded-tr-[20px] rounded-tl-[20px] rounded-br-[20px]" />
+                <img src={process.env.PUBLIC_URL + '/img/user3-free-img.jpg'} alt="" className="w-[100%] rounded-tr-[20px] rounded-tl-[20px] rounded-br-[20px]" />
                 </div>
                 <div className="w-[266px] pt-14">
                     <p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt.</p>
