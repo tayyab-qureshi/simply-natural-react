@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simply-natural-react/static/css/main.bba07322.css",
+    "main.js": "/simply-natural-react/static/js/main.3184aaff.js",
+    "static/media/CTA-bg.jpg": "/simply-natural-react/static/media/CTA-bg.2ce118a6ec8e7e0b3730.jpg",
+    "static/media/hero-bg.jpg": "/simply-natural-react/static/media/hero-bg.d67f90f4e8af1dcc5cc4.jpg",
+    "index.html": "/simply-natural-react/index.html",
+    "main.bba07322.css.map": "/simply-natural-react/static/css/main.bba07322.css.map",
+    "main.3184aaff.js.map": "/simply-natural-react/static/js/main.3184aaff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bba07322.css",
+    "static/js/main.3184aaff.js"
+  ]
+}
